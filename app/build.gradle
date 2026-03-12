@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.nht.thuanproject'
-    compileSdk 34
+    compileSdk 35
 
     defaultConfig {
         applicationId "com.nht.thuanproject"
