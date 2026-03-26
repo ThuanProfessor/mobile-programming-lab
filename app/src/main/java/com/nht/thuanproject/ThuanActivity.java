@@ -11,7 +11,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class ThuanActivity extends AppCompatActivity {
 
-    TextView
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
